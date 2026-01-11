@@ -1,4 +1,4 @@
-# School-Project
+# TTTC3213 Final Group Project
 **Project Overview**
 
 This project demonstrates a complete ETL (Extract, Transform, Load) process applied to an online shopping website.
