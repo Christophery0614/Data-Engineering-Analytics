@@ -31,7 +31,7 @@ The project focuses on **Shopify E-commerce platform data**, covering the end-to
 
 ## 🚀 Key Modules & Workflow
 
-### 1. Group 8 Team Project: Shopify E-commerce ETL Pipeline & Analysis
+### 1. Team Project: Shopify E-commerce ETL Pipeline & Analysis
 
 - **Extract**: Built Python web scraper scripts to harvest product attributes (Titles, Prices, Vendors, Tags, Inventory Levels, etc.) from Shopify e-commerce sites.
 
@@ -43,7 +43,7 @@ The project focuses on **Shopify E-commerce platform data**, covering the end-to
 - **Load & Data Visualization**:
   - Analyzed vendor performance, price distribution, and product categorical popularity using Pandas, Matplotlib, and Seaborn.
 
-### 2. Individual Assignments (A191702 - YU YIFAN)
+### 2. Individual Assignments 
 
 - **Assignment 1**: Focused on fundamental data cleaning, missing value imputations, and feature transformation.
 
@@ -79,7 +79,7 @@ pip install pandas numpy matplotlib seaborn requests beautifulsoup4 openpyxl jup
 
 ## 🚀 项目核心内容 (Project Highlights)
 
-### 1. Group 8 团队项目: Shopify 电商数据 ETL 流程与分析
+### 1. 团队项目: Shopify 电商数据 ETL 流程与分析
 
 * **数据提取 (Extract):** 编写 Python Web 爬虫脚本，自动采集 Shopify 平台上商品的相关数据（标题、价格、供应商 Vendor、标签 Tag、库存状态等）。
 * **数据转换与清洗 (Transform):**
@@ -94,7 +94,7 @@ pip install pandas numpy matplotlib seaborn requests beautifulsoup4 openpyxl jup
 
 
 
-### 2. A191702 个人作业 (Individual Assignments)
+### 2. 个人作业 (Individual Assignments)
 
 * **Assignment 1:** 重点关注数据集的基础清理、字段类型转换与缺失值填补策略。
 * **Assignment 2:** 深入的探索性数据分析（EDA）：
