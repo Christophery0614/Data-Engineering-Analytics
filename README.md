@@ -78,6 +78,3 @@ pip install pandas numpy matplotlib seaborn requests beautifulsoup4 openpyxl jup
 - **Student**: YU YIFAN (Matric No: A191702)
 ```
 
----
-
-Just copy and paste the above into a file named `README.md` in your project root. Let me know if you need any modifications!
