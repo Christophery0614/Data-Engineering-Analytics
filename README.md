@@ -1,6 +1,6 @@
-# TTTC3213 Data Engineering & Analytics Project: Shopify ETL & Exploratory Data Analysis
+# Data Engineering & Analytics Project: Shopify ETL & Exploratory Data Analysis
 
-## 📖 Project Overview
+## 📖 TTTC3213 Project Overview
 
 This repository contains the complete codebase, datasets, presentation materials, and analysis reports for the **TTTC3213** course project. It comprises two main components: **Group 8 Team Project** and **Individual Assignments (YU YIFAN - A191702)**.
 
