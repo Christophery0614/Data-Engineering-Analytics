@@ -1,4 +1,4 @@
-# 🎓 Data Engineering & Analytics Project: Shopify ETL & Exploratory Data Analysis
+#🎓 Data Engineering & Analytics Project: Shopify ETL & Exploratory Data Analysis
 
 ## 📖 TTTC3213 Project Overview
 
